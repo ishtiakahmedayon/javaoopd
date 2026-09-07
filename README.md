@@ -12,7 +12,7 @@
 **Definition:** Encapsulation is the OOP principle of **bundling data (fields) and the methods that operate on that data into a single unit (a class)**, while **restricting direct access** to the internal state from outside the class. It is often called "data hiding."
 
 **How Java achieves it:**
-1. Declare fields as `private` — this hides them from outside classes.
+1. Declare fields as `private` ú— this hides them from outside classes.
 2. Provide `public` **getter** methods to read the value.
 3. Provide `public` **setter** methods to modify the value — and inside the setter you can add **validation logic** (e.g., reject a negative age).
 
@@ -1155,3 +1155,6 @@ Rafi received update: Java 25 has been released!
 ---
 
 *End of Part 3 (L9–L12). This completes the full answer notebook (L1–L12). If any question was worded slightly differently in your actual paper, tell me the exact wording and I'll adjust the answer to match it precisely.*
+
+
+https://chatgpt.com/share/6a9ebccc-5d44-83ee-9bb0-627562379dc0?ogimg=plain
